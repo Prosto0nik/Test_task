@@ -1,25 +1,3 @@
-<!DOCTYPE html>
-<html>
-<head>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-        }
-        h1 {
-            font-size: 24px;
-            font-weight: bold;
-        }
-        h2 {
-            font-size: 20px;
-            font-weight: bold;
-        }
-        p {
-            font-size: 16px;
-        }
-    </style>
-</head>
-<body>
-
 <h1>Archiver and Unpacker</h1>
 <p>Это небольшой Python-скрипт, предназначенный для <strong>архивирования без потерь</strong> и <strong>распаковки без потерь</strong> текста с использованием заданного словаря корней и идентификаторов.</p>
 
